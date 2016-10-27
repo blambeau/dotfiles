@@ -1,0 +1,1 @@
+alias gria='git rebase --interactive --autosquash'
